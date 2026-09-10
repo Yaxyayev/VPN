@@ -1,9 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <!-- IMPORTANT: Replace 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' with your actual Extension ID after packing -->
-  <app appid='jkcnhfombemoihcigldhepmjfpgmgpce'>
-    <!-- The version must match the version in manifest.json (1.3.1). 
-         The codebase must be the actual URL where your .crx file will be hosted. -->
-    <updatecheck codebase='https://yaxyayev.github.io/VPN/GateBridge.crx' version='1.3.1' />
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="jkcnhfombemoihcigldhepmjfpgmgpce">
+    <updatecheck codebase="https://yaxyayev.github.io/VPN/GateBridge.crx" version="1.3.1"/>
   </app>
 </gupdate>
